@@ -67,6 +67,11 @@ const AboutPage = () => {
 };
 ``` 
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/a7d6399e-ed09-4747-8b98-6fdf1282337e)
+![tuto1](https://github.com/user-attachments/assets/9e88b690-05fe-4622-bde8-32bf25f8f002)
+
+
 
 ## 📣 Contributing
 Feel free to fork this repo and open pull requests for any improvements, bug fixes, or new features. Your contributions are always welcome!
