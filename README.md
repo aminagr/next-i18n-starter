@@ -36,7 +36,15 @@ npm run dev
 ### Add More Languages
 To add a new language, follow these steps:
 1. Update the `locales` array in the `routing.js` file. This file is where your application handles the supported locales (languages). Add the language code for your new language (e.g., es for Spanish, de for German) to the array.
-2. Inside the messages/ folder create a new file named after the language code you added. For example, if you added Spanish (es), create a new file called es.json.
+2. Inside the messages/ folder create a new file named after the language code you added. For example, if you added Spanish (es), create a new file called es.json. For example :
+```bash
+{
+  "hello": "Hola",
+  "welcome": "Bienvenido",
+  "about": "Acerca de"
+}
+``` 
+
 ### Add Pages 
 To add a new page, you can follow the structure provided by the Next.js App Router. For example, to add an "About" page:
 
@@ -55,7 +63,7 @@ import { useTranslations } from 'next-intl';
 
 const AboutPage = () => {
   const t = useTranslations();
-  return <h1>{t('message')}</h1>; 
+  return <h1>{t('hello')}</h1>; 
 };
 ``` 
 
