@@ -55,7 +55,7 @@ import { useTranslations } from 'next-intl';
 
 const AboutPage = () => {
   const t = useTranslations();
-  return <h1>{t('about')}</h1>; 
+  return <h1>{t('message')}</h1>; 
 };
 ``` 
 
