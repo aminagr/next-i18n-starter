@@ -13,8 +13,6 @@ Welcome to the **Next.js Multilingual Starter**, a boilerplate designed to help 
 
 - **Next.js**: A React framework for building fast, dynamic web apps.
 - **Next-Intl**: A powerful library to manage translations and localizations in Next.js.
-- **Routing**: Automatically handles dynamic locales (e.g., `/en`, `/fr`, `/es`).
-- **Server-Side Rendering (SSR)**: Full support for SSR and Static Site Generation (SSG).
 - **Tailwind CSS** : This starter comes with Tailwind CSS preconfigured, allowing you to easily build modern, responsive user interfaces. Tailwind's utility-first approach makes it easy to style your components without writing custom CSS, resulting in faster development and a cleaner codebase.
 
 ## ⚙️ Setup Instructions
