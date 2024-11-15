@@ -39,8 +39,7 @@ To add a new language, follow these steps:
 ```bash
 {
   "hello": "Hola",
-  "welcome": "Bienvenido",
-  "about": "Acerca de"
+  "welcome": "Bienvenido"
 }
 ``` 
 
