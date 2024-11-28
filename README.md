@@ -21,7 +21,7 @@ Welcome to the **Next.js Multilingual Starter**, a boilerplate designed to help 
 
 ```bash
 git clone https://github.com/aminagr/nextjs-i18n-starter.git
-cd multilingual
+cd next-i18n-starte
 ``` 
 2. **Install dependencies:**
 ```bash
